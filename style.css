@@ -1,0 +1,17 @@
+h1 {
+    background-color: aqua;
+    font-family: "Times New Roman", sans-serif;
+    font-size: 30px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+
+}
+
+p {
+    font-family: "Arial", sans-serif;
+    font-size: 20px;
+}
